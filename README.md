@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24412102.svg)](https://doi.org/10.5281/zenodo.24412102)
 
+This result is now maintained in [theta-host-split-inert-race](https://github.com/leecrossley/theta-host-split-inert-race/tree/main/results/theta-race-silent-powers). This repository is archived and keeps its releases and DOI.
+
 **Every one of the first billion exponents gives both large gains and large losses. Yet some larger powers of two suppress both moves at every sufficiently high start.** For the weighted 547/727 split–inert prime race let $`D_n(y)=S(2^n y)-S(y)`$ and $`\tau=1.9735\log2`$. The width of the score is fixed at $`b=2`$. [Full theorem](PROOF.md)
 
 | Exponents | What is proved |
